@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: service-registry
+Implementation-Version: 1.0
+Built-By: leo
+Implementation-Vendor-Id: com.leo.registry
+Build-Jdk: 1.8.0_101
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
