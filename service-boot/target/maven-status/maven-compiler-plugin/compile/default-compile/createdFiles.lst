@@ -1,0 +1,5 @@
+com\leo\microservice\service\DockerImageService.class
+com\leo\microservice\app\ComputeServiceApplication.class
+com\leo\microservice\service\impl\DockerImageServiceImpl.class
+com\leo\microservice\registry\ComputeController.class
+com\leo\microservice\rest\HelloApplication.class
